@@ -1,2 +1,2 @@
-# SimsLiX.
+# SimsLiX.github
 cinelix cop
